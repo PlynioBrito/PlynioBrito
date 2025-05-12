@@ -2,7 +2,7 @@
 - 👀 I’m interested in  programação.
 - 🌱 I’m currently learning  na Khan Academy .
 - 💞 I’m looking to colaboradores para me ajudar a aprender  
-- 📫 How to reach me  plyniob2@gmail.com
+- 📫 How to reach me  plyniob@gmail.com
 
 <!---
 PlynioBrito/PlynioBrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
